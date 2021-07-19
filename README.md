@@ -9,6 +9,6 @@ _this program file has flask code wriiten that will launch a webapp that will wo
 _It contains all the required html files required by flask to forward and get the request._
 
 **NOTE** 
-*Here flask is working on 'GET' operation , instead you can use 'POST' operation too !!
+*Here flask is working on 'GET' operation , instead you can use 'POST' operation too !!*
 
 Connect will me on LinkedIN - https://www.linkedin.com/in/shashwat-pathak
