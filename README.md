@@ -12,4 +12,5 @@ _It contains all the required html files required by flask to forward and get th
 *Here flask is working on 'GET' operation , instead you can use 'POST' operation too !!*
 
 Video Practical - https://www.linkedin.com/posts/shashwat-pathak_flask-mongodb-server-activity-6822994153291571201-3mru
+
 Connect will me on LinkedIN - https://www.linkedin.com/in/shashwat-pathak
